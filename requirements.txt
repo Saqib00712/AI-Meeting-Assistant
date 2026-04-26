@@ -1,0 +1,7 @@
+torch
+gradio
+ibm-watsonx-ai
+langchain-ibm
+langchain-core
+langchain
+transformers
